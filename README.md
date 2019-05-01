@@ -1,5 +1,5 @@
-# curso-git
-Atividade da disciplina de programação web
+                                                       # curso-git
+                                           Atividade da disciplina de programação web
 
 <p align="center">
   <a href="https://cakephp.org/" target="_blank" >
